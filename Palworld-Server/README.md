@@ -1,0 +1,1 @@
+Uses STEAMCMD image from https://github.com/Lukium/Docker-Images/tree/main/SteamCMD
